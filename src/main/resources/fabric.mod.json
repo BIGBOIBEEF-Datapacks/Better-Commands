@@ -17,14 +17,8 @@
 	"entrypoints": {
 		"main": [
 			"com.bigboibeef.bettercommands.BetterCommands"
-		],
-		"fabric-datagen": [
-			"com.bigboibeef.bettercommands.BetterCommandsDataGenerator"
 		]
 	},
-	"mixins": [
-		"better-commands.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.16.14",
 		"minecraft": "~1.21",
